@@ -3,6 +3,46 @@
 ## 📌 Project Overview
 
 This project analyzes sales data using Python. It performs data cleaning, data merging, feature engineering, business KPI analysis, and data visualization to identify important business insights. The project also exports a cleaned dataset for further analysis.
+## 📊 Visualizations
+
+### Monthly Sales Trend
+![Monthly Sales Trend](charts/monthly_sales_trend.png)
+
+### Monthly Profit Trend
+![Monthly Profit Trend](charts/monthly_profit_trend.png)
+
+### Category Sales
+![Category Sales](charts/category_sales.png)
+
+### Category Profit
+![Category Profit](charts/category_profit.png)
+
+### Sales vs Profit
+![Sales vs Profit](charts/sales_vs_profit_scatter.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](charts/correlation_heatmap.png)
+
+### Top 10 States by Sales
+![Top 10 States Sales](charts/top_10_states_sales.png)
+
+### Top 10 States by Profit
+![Top 10 States Profit](charts/top_10_states_profit.png)
+
+### Top 10 Customers by Sales
+![Top 10 Customers Sales](charts/top_10_customers_sales.png)
+
+### Top 10 Customers by Profit
+![Top 10 Customers Profit](charts/top_10_customers_profit.png)
+
+### Top 10 Subcategories by Sales
+![Top 10 Subcategory Sales](charts/top_10_subcategory_sales.png)
+
+### Top 10 Subcategories by Profit
+![Top 10 Subcategory Profit](charts/top_10_subcategory_profit.png)
+
+### Loss Making Subcategories
+![Loss Subcategory Profit](charts/loss_subcategory_profit.png)
 
 ---
 
