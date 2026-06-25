@@ -1,5 +1,7 @@
 # 📊 Sales Analysis Using Python
+## 📸 Project Output
 
+![Dashboard](charts/category_sales.png)
 ## 📌 Project Overview
 
 This project analyzes sales data using Python. It performs data cleaning, data merging, feature engineering, business KPI analysis, and data visualization to identify important business insights. The project also exports a cleaned dataset for further analysis.
